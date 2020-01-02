@@ -1,3 +1,13 @@
+/**
+ * 
+ * 카카오 2020 블라인드 채용 테스트 2번문제
+ * : 괄호 변환
+ * 
+ * https://programmers.co.kr/learn/courses/30/lessons/60058?language=javascript
+ * https://tech.kakao.com/2019/10/02/kakao-blind-recruitment-2020-round1/
+ * 
+ */
+
 function solution(p) {
   return recursiveFunc(p);
 }
